@@ -1,0 +1,26 @@
+.dongle-regular {
+    font-family: "Dongle", sans-serif;
+    font-style: normal;
+    font-size: 215%;
+  }
+  
+textarea {
+    resize: none;
+}
+
+body {
+    margin: 0;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.gaago {
+    width:100%;
+    height: 50vh;
+    background-color: darkblue;
+}
